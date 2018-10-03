@@ -11,6 +11,8 @@ All you will need will be:<br>
 
 You will only need to insert Enter when PHP Package is needed to be installed then enter your prefered MYSQL password you will need.<br>
 
+For now it's working only with Ubuntu 16.4 and will add more OS to it.
+
 This Script is only in beta more scripts and advanced ones will be attached.<br>
 
 Thanks.
