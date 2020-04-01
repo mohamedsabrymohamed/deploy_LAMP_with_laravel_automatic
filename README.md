@@ -1,3 +1,6 @@
+# What is New?
+1- Add select PHP Version ( from 7.1 to => 7.4)
+2- Now you can create Laravel project or just install php, apache and mysql
 # deploy_laravel_automatic
 Deploy LAMP Stack and Laravel project to empty server with one command
 
