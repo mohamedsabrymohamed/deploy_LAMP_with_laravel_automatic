@@ -20,7 +20,7 @@ For now it's working with Ubuntu and CentOS. Will add MacOS to it and other OS r
 
 Thanks.
 
-#Todo
+# Todo
 - add support to CentOS release 6 and 8.
 - add support to MacOS.
 - add Laravel version choices.
