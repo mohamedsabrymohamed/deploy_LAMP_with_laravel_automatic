@@ -19,3 +19,13 @@ You will only need to insert Enter when PHP Package is needed to be installed th
 For now it's working with Ubuntu and CentOS. Will add MacOS to it and other OS releases.
 
 Thanks.
+
+#Todo
+- add support to CentOS release 6 and 8.
+- add support to MacOS.
+- add Laravel version choices.
+- add some Laravel packages to choose from ( auth , passport ).
+- set MYSQL password as entry from user.
+- add support to another databases ( postgres , mongodb ).
+- add npm installation. 
+
