@@ -22,7 +22,7 @@ esac
 
 if [ ! -z "$character" ]; then
    ############################# read create laravel project choices ##############################
-   read -p "Do you want to create a laravel project? " -n 1 -r
+   read -p "Do you want to create a laravel project? (y/n) " -n 1 -r
    echo
    if [[ $REPLY =~ ^[Yy]$ ]]; then
       echo "Please Insert new project name you want"
